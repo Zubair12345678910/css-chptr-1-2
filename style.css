@@ -1,0 +1,66 @@
+.h1{
+    color: rgb(16, 16, 20);
+    background-color: rgb(1, 81, 16);
+    border: 2px solid black;
+    /* padding: 15px; */
+    text-align: center;
+    height: 90px;
+    width: 1420px;
+
+    
+}
+
+.h2{
+    color: rgb(16, 16, 20);
+    background-color: rgb(3, 96, 44);
+    border: 2px solid black;
+    /* padding: 15px; */
+    text-align: center;
+    margin-top: 2px;
+    height: 90px;
+    width: 1420px;
+}
+
+.h3{
+    color: rgb(16, 16, 20);
+    background-color: rgb(6, 104, 53);
+    border: 2px solid black;
+    /* padding: 15px; */
+    text-align: center;
+    height: 90px;
+    width: 1420px;
+    margin-top: 2px;
+}
+
+.h4{
+    color: rgb(16, 16, 20);
+    background-color: rgb(9, 123, 78);
+    border: 2px solid black;
+    /* padding: 15px; */
+    text-align: center;
+    height: 90px;
+    width: 1420px;
+    margin-top: 2px;
+}
+
+.h5{
+    color: rgb(16, 16, 20);
+    background-color: rgb(12, 120, 75);
+    border: 2px solid black;
+    /* padding: 15px; */
+    text-align: center;
+    height: 90px;
+    width: 1420px;
+    margin-top: 2px;
+}
+
+.h6{
+    color: rgb(16, 16, 20);
+    background-color:rgb(15, 119, 74);
+    border: 2px solid black;
+    /* padding: 15px; */
+    text-align: center;
+    height: 90px;
+    width: 1420px;
+    margin-top: 2px;
+}
